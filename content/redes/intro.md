@@ -17,7 +17,7 @@ draft: true
     + Se incorporó a los teléfonos un disco con números para "marcar" el número del destinatario de la llamada.
     + La centralita decodificaba el número para sbaer a cuál no do conectarse
 + Concexiones a larga distancia conectando centrales
-[conexion de 2 centrales de centralitas]()
+![conexion de 2 centrales de centralitas]()
 
 #### Fases de la conmutación
 
@@ -41,8 +41,8 @@ Defina los elementos de comunicación
     + El canal
     + El destino del mensaje
 
-<!-- TODO: Investigarr guerreros de la red -->
-[imgaen](Warrios of the net)
+<!-- TODO: ver guerreros de la red -->
+![imgaen](Warrios of the net)
 
 def: Redes de datos o información capaces de transportar diversos tipos de comunicaciones
 
@@ -58,13 +58,14 @@ Los datos se envían a través de mensajes
     + Avisar que un paquete llegó al destino
     + Collisión o el ruter los descartó
 
-+ Puertos (65523 puertos) [tabla de puertos]()
++ Puertos (65523 puertos) ![tabla de puertos]()
     + 80: web
     + 25: email
     + 21: FTP
     + 22: ssh
     + 25:
 
+<!-- TODO: investigar que es un firewall -->
 ### Firewall
 
 + Añadir una exception a nuestro Firewall en lugar de deshabilitarlo
