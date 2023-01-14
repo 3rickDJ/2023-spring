@@ -75,3 +75,34 @@ Los datos se envían a través de mensajes
 $ ping google.com -T
 ```
 Enviar paquetes indefinidamente
+
+## Quién inventó el internet
+
+### Joseph Carl Robnett Licklider
+
+Ideas modelaron el internet:
++ red global
++ descentralizada 
++ interfaz gráfica
++ libre flujo
+**La red intergaláctica de cómputo**
+
+### En medio de la guerra fría (supremacía mundial)
+
+EEUU funda ARPA, misión no militar. Apoyaba a científicos de universidades estadounidenses para evitar que les ganaran los rusos, les daba gran libertad para investigar. Licklider convenció a sus compas de sus ideas importantews. Entonces, Bob Taylor y Ivn Suthrland fundaron ARPAnet. (flujo de red ineficiente)
+
+Paquetes de red: 60s en francia UK, EEUU Leonard Kleinrock, en lugar de flujo ininterrumpido
++ meta información (más información que la original)
+  + cabezera (destino) y cola (final y tamaño de paquete)
+
+1982 surge IP. Cómo empaquetar, etiquetar y transmitir la información.
+
+InterNetworking -> InterNet
+
+Permitía
++ email
++ transferencia y busqueda de archivos (FTP & archi) 
++ BBS (juegos en linea de solo texto)
++ Gopher (precursor de la actual web)
+
+1991 Tim Berners Lee, www father. Experimentaba con hypertexto. trabajaba en el CERN -> Internet + web ==> World wide web
